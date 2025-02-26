@@ -6,7 +6,7 @@ const ITEMS_FILE = `${MCMETA}/registries/item/data.json`; // no minecraft: prefi
 const ITEM_UVMAP_FILE = `${MCMETA}/atlas/items/data.min.json`;
 const ITEM_ATLAS_FILE = `${MCMETA}/atlas/items/atlas.png`;
 
-const LANG_FILE = `${MCMETA}/assets/assets/minecraft/lang/en_us.json`;
+const LANG_FILE = `${MCMETA}/assets/assets/minecraft/lang/zh_cn.json`;
 
 export {
   VERSION_FILE,
